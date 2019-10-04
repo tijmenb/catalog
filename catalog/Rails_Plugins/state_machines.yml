@@ -10,11 +10,12 @@ projects:
   - simple_state_machine
   - simple_states
   - stamina
-  - state-fu
   - state_machine
   - state_machines
   - state_objects
+  - state-fu
   - stateflow
+  - statesman
   - status-manager
   - transitions
   - workflow
